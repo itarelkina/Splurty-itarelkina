@@ -34,11 +34,22 @@
 .links a {
   color: black;
   font-size: 25px;
-  border-bottom: 1px solid #3BA8A5
+  border-bottom: 1px solid #3BA8A5;
+  font-family: 'acherus_grotesqueregular';
+  font-weight: bold;
 }
 header {
   border-top: 9px solid #6C7523;
 }
 hr {
   clear:both;
+}
+h1 {
+  font-family: 'acherus_grotesqueregular';
+  font-weight: bold;
+  font-size: 48px;
+
+}
+h2 {
+  font-family: 'acherus_grotesqueregular';
 }
